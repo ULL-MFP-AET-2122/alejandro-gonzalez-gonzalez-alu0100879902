@@ -19,6 +19,6 @@ Dirección: Facultad Educación ULL, clase B3.03
 
 * Máster en Ingeniería Industrial, 2018-2020
 
-* Máster en Formación de Profesorado, 2020-actualmente
+* Máster en Formación de Profesorado, 2021-actualmente
 
 

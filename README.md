@@ -10,6 +10,9 @@ e-mail: alu0100879902@ull.edu.es
 
 Dirección: Facultad Educación ULL, clase B3.03
 
+"Cuando todo parezca ir en tu contra, recuerda que el avión despega contra el viento"
+ Henry Ford
+
 # Formación
 
 * Grado en Ingeniería Mecánica, 2014-2018

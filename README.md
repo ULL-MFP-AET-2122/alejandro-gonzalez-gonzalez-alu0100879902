@@ -11,7 +11,7 @@
 **Dirección:** Facultad Educación ULL, clase B3.03
 
 |Redes sociales   |Enlaces|   |   |   |
-|---|---|---|---|---|
+|--:|--:|--:|--:|--:|
 |Instagram   |[Instagram](https://www.instagram.com/?hl=es)|   |   |   |
 |Linkedin   |[LinkedIn](https://es.linkedin.com/)|   |   |   |
 |Facebook   |[Facebook](https://es-es.facebook.com/)|   |   |   |

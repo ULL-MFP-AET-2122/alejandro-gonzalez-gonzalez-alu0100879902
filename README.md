@@ -10,15 +10,11 @@
 
 **Dirección:** Facultad Educación ULL, clase B3.03
 
-**Redes sociales**:
-
-|Facebook   |   |   |   |   |
+|Redes sociales   |Enlaces|   |   |   |
 |---|---|---|---|---|
-|Instagram   |   |   |   |   |
-|---|---|---|---|---|
-|Linkedin   |   |   |   |   |
-
-**LinkedIn:** [LinkedIn](https://es.linkedin.com/)
+|Instagram   |[Instagram](https://www.instagram.com/?hl=es)|   |   |   |
+|Linkedin   |[LinkedIn](https://es.linkedin.com/)|   |   |   |
+|Facebook   |[Facebook](https://es-es.facebook.com/)|   |   |   |
 
 "Cuando todo parezca ir en tu contra, recuerda que el avión despega contra el viento"
  **Henry Ford**

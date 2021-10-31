@@ -10,13 +10,12 @@
 
 **Dirección:** Facultad Educación ULL, clase B3.03
 
-|Redes sociales   |Enlaces|   |   |   |
-|--:|--:|--:|--:|--:|
-|Instagram   |[Instagram](https://www.instagram.com/?hl=es)|   |   |   |
-|Linkedin   |[LinkedIn](https://es.linkedin.com/)|   |   |   |
-|Facebook   |[Facebook](https://es-es.facebook.com/)|   |   |   |
+|Redes sociales|Enlaces|
+|---|---|
+|Facebook|[Facebook](https://es-es.facebook.com/)|
+|Linkedin|[LinkedIn](https://es.linkedin.com/)|
 
-"Cuando todo parezca ir en tu contra, recuerda que el avión despega contra el viento"
+>"Cuando todo parezca ir en tu contra, recuerda que el avión despega contra el viento"
  **Henry Ford**
 
 ## Formación
@@ -37,3 +36,11 @@
 
 ![Ing_mec](https://www.queestudiar.org/wp-content/uploads/2020/02/ingmecanica-640x300.jpg)
 
+:smile:
+
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}```
